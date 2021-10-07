@@ -7,7 +7,8 @@ Features
 -------
 - Main Screen
 - Click button
-
+- New Features will include more languages, 
+currently only in Catalan
 
 Installation
 ------------
