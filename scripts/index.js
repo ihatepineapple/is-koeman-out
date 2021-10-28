@@ -5,7 +5,7 @@
 
 // http.onload = () => console.log(http.responseText)
 
-const isKoemanStillCoach = true;
+const isKoemanStillCoach = false;
 
 const responseArrayCat = ["No", "Encara no", "Nope", "Ara tampoc", "Que va", "Que nooooooooo", "Potser algun dia", "Hahahahaha No.", "Ni de conya", "Nein!", "Negatiu"]
 
@@ -36,5 +36,5 @@ mainButton.onclick = function () {
     console.log(response);
     isKoemanStillCoach ?
     negativeResponse() :
-    response.textContent = "YES"
+    response.textContent = "SIIIIIIIIIIIIII"
 };
